@@ -1,0 +1,10 @@
+{
+    "type": "code",
+    "modid": "hideplayerpins",
+    "name": "Hide Player Pins",
+    "authors": [
+        "Dmitry221060"
+    ],
+    "description": "Hides player pins of other players from the map",
+    "version": "1.0.0"
+}
